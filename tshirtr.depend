@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1448969050 source:e:\codeblocks codes\tshirtr\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<ctime>
+
